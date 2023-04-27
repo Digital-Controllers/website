@@ -14,3 +14,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/logo.png
+nav:
+    - Welcome: index.md
+    - Contributing: contributing.md
