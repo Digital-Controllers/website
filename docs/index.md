@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to the Digital Controllers documentation hub!
 
 ## We're a group of ATC enthusiasts passionate for providing a high-quality immersive experience in DCS, and these documents will set out a standard for how we control traffic internally and externally.
 
