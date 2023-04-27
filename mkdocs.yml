@@ -1,4 +1,6 @@
 site_name: Digital Controllers
+site_description: Digital Controllers Documentation Hub - an open-source ATC documentation project by DCS controllers, for DCS controllers.
+site_url: https://digital-controllers.com
 theme:
   name: material
   palette:
@@ -15,5 +17,7 @@ theme:
         name: Switch to light mode
   logo: assets/logo.png
 nav:
-    - Welcome: index.md
-    - Contributing: contributing.md
+  - Welcome: index.md
+  - Contributing: contributing.md
+plugins:
+  - social
