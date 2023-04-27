@@ -1,5 +1,8 @@
 # Contributing
-## Thanks for your interest in contributing! We massively appreciate your support. Before you get started, we do have a couple of standards and rules to adhere to:
+## Dos and Don'ts
+
+**Thanks for your interest in contributing! We massively appreciate your support. Before you get started, we do have a couple of standards and rules to adhere to:**
+
 **Do:**
 
 - write in British English, for the sake of standardisation.
@@ -14,5 +17,4 @@
 - add images and sounds unless you're confident your use falls under Fair Use or is otherwise permitted by the media's copyright license. Wikimedia is a good place to search for examples.
 
 
-# Style Guide
-TBD
+## Style Guide
