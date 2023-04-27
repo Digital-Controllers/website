@@ -1,6 +1,7 @@
-# Welcome to the Digital Controllers documentation hub!
+# Welcome
+## Introduction
 
-## We're a group of ATC enthusiasts passionate for providing a high-quality immersive experience in DCS, and these documents will set out a standard for how we control traffic internally and externally.
+Welcome to the Documentation Hub! We're a group of ATC enthusiasts passionate for providing a high-quality immersive experience in DCS, and these documents will set out a standard for how we control traffic internally and externally.
 
 Digital Controllers was created to provide a welcoming and accepting learning environment for those unfamiliar with the basics of ATC, and to create uniform standards for members, allowing them to fluidly work together and control pilots of varying skill levels in a sensible and reasonable way.
 
