@@ -12,3 +12,4 @@ Interested in joining us? **Come check out our [Discord!](https://discord.gg/8qX
 
 ## Acknowledgements
 - [evwltrs](https://github.com/evwltrs) - setting up the static website and helping us with getting the ball rolling!
+- [Syntax](https://github.com/Syn-Tax) - offering advice, support, and software for use by Digital Controllers.
