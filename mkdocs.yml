@@ -19,6 +19,7 @@ theme:
 nav:
   - Welcome: index.md
   - Contributing: contributing.md
+  - General Knowledge: general-knowledge/index.md
 plugins:
   - social
 markdown_extensions:
