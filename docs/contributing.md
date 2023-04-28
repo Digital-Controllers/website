@@ -17,6 +17,9 @@
 - reference any documentation you are not *100% certain* is *unclassified* and completely available to the public. Documents restricted by distribution statements are *not* unclassified.
 - add images and sounds unless you're confident your use falls under Fair Use or is otherwise permitted by the media's copyright license. Wikimedia is a good place to search for examples.
 
+!!! info "Copyright Complaints"
+	For concerns and inquiries, contact the project lead (Quantify) at quantifygg@gmail.com.
+
 ## Standards
 
 Discussion about the exact standards that will be used as bases for our documentation is ongoing. Join the conversation at our [Discord](https://discord.gg/8qXDBVs2XU) to suggest your opinion. 
@@ -46,7 +49,6 @@ If something feels like it fits better in a specialised category, place it there
 In brief, use this section to teach a controller everything they need to know before learning about a specific position. 
 
 **Ground**
-
 This category encompasses VFR/IFR clearances and taxi clearances. Controllers should gain a good understanding of providing VFR and IFR clearances, and should know how to communicate that clearance to Tower or an applicable Radar controller, depending on what the next highest position is. 
 
 **Tower**
