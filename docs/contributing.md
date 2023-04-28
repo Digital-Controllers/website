@@ -27,7 +27,7 @@ Due to the flexibility of our documentation sources, please ensure you cite appr
 
 ## Formatting Guide
 
-Information should be split into 5 different categories:
+Information should be split into 4 different categories:
 
  1. General Knowledge 
  2. Ground
