@@ -49,6 +49,7 @@ If something feels like it fits better in a specialised category, place it there
 In brief, use this section to teach a controller everything they need to know before learning about a specific position. 
 
 **Ground**
+
 This category encompasses VFR/IFR clearances and taxi clearances. Controllers should gain a good understanding of providing VFR and IFR clearances, and should know how to communicate that clearance to Tower or an applicable Radar controller, depending on what the next highest position is. 
 
 **Tower**
