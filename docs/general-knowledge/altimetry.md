@@ -1,9 +1,11 @@
 # Altimetry
 
 An altimeter is an instrument designed to measure the altitude of an object above a fixed level. The most useful altimeters on aircraft are known as Barometric Altimeters, these work by comparing the (static) pressure around the object to a fixed calibration point, known as the altimeter setting. There are three main types of calibration point:
+
 - QNH
 - QFE
 - QNE
+
 These names allow pilots and controllers to know which altitude reference they should be using, when spoken over the radio, each letter is said individually, **not** using the phonetic alphabet.
 
 The unit of the altimeter setting may change across the world, usually Hectopascals (hPa) or Millibars (mb), however, Inches of Mercury (inHg) are used in the United States of America, Canada and Japan - inHg is also the most common unit in DCS. Meteorologists may also use Millimetres of Mercury (mmHg) but that is rare in aviation.
@@ -44,6 +46,8 @@ The value of QNE in the different units:
 - Inches of Mercury (inHg): 29.92 inHg
 - Millimetres of Mercury (mmHg): 730 mmHg
 
+![Altimeter settings](../assets/Altimetry.png)
+
 ## Transition Altitude
 
 At some point during an aircraft's flight, they may have to transition between QNH/QFE and QNE. The **altitude** at which an aircraft does this is known as the 'transition altitude'.
@@ -71,6 +75,7 @@ The transition level is usually set at the lowest available flight level above t
 # Further reading & References
 
 All of the information here can be found in:
+- [ICAO Doc 8168 Aircraft Operations Volume I: Flight Procedures](https://publicapps.caa.co.uk/docs/33/15-Ref09_Doc%208168%20PANS-OPS%20Vol%20I%20Flight%20Procedures.PDF)
 - [UK Civil Air Publication (CAP) 493: Manual of Air Traffic Services](https://publicapps.caa.co.uk/docs/33/CAP%20493%20Edition%2010%20(28%20March%202022).pdf)
 - [US FAA Order JO 7110.65](https://www.faa.gov/documentLibrary/media/Order/7110.65AA_ATC_Basic_dtd_4-20-23_FINAL.pdf)
-- [ICAO Doc 8168 Aircraft Operations Volume I: Flight Procedures](https://publicapps.caa.co.uk/docs/33/15-Ref09_Doc%208168%20PANS-OPS%20Vol%20I%20Flight%20Procedures.PDF)
+- ICAO Doc 7488 Manual of the ICAO standard atmosphere
