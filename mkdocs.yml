@@ -21,3 +21,5 @@ nav:
   - Contributing: contributing.md
 plugins:
   - social
+markdown_extensions:
+  - attr_list
