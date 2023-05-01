@@ -1,0 +1,10 @@
+services:
+  mkdocs:
+    image: squidfunk/mkdocs-material
+    container_name: digital-controllers-mkdocs
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/docs
+    stdin_open: true
+    tty: true
