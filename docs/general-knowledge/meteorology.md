@@ -62,8 +62,8 @@ The altitude of a cloud layer is the cloud base (i.e. the bottom of the cloud la
 Other notes may be added to a METAR, most notably:
 
 - `NOSIG` which means that no significant changes are expected within the next two hours
-- `CAVOK` short for Ceiling And Visibility OK and indicates that there is no cloud below 5,000ft AGL, and visibility is higher than 10km (shown in the visibility section as 9999)
 - `TEMPO` conditions are expected to change for half of the next two hour period
+- `CAVOK` short for Ceiling And Visibility OK and indicates that there is no cloud below 5,000ft AGL, and visibility is higher than 10km (shown in the visibility section as 9999)
 
 ## TAF
 
