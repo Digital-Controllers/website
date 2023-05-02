@@ -57,7 +57,7 @@ This category encompasses radar separation, basic IFR approaches, standard depar
 
 **Approach/Departure**
 
-Advanced topics can be explored in this category (though more so in the Area Control cateory.) The reader is assumed to have a good general knowledge of ATC procedures by now, so expanding on the various approach types available to a pilot is a good idea. The Approach controller should have a good understanding of PAR/APV approaches.
+Advanced topics can be explored in this category. The reader is assumed to have a good general knowledge of ATC procedures by now, so expanding on the various approach types available to a pilot is a good idea. The Approach controller should have a good understanding of PAR/APV approaches.
 The reader should understand how to issue radar vectors effectively, taking into account winds and pilot reaction times. The reader should be able to communicate rapidly with Tower, and to manage emergencies. It is likely that the workload for an Approach controller is far higher than a Tower controller, particularly if a Tower controller isn't available to alleviate any pressure, so brevity should be consistent and refined as set out by ICAO. The reader should also understand how VFR traffic act in an aerodrome's FRZ, understand different types of airspace and monitor for potential conflicts.
 As the final station before a handoff to a TAC C2 agency, the reader should be familiarised with the basic roles of a GCI. They should understand how to communicate handoffs effectively and alleviate a GCI's workload by managing emergency traffic.
 
