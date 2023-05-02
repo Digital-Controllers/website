@@ -15,7 +15,7 @@ The unit of the altimeter setting may change across the world, usually Hectopasc
 QNH stands for Query Nautical Height and refers to the **current** air pressure at sea level. This is then used by an aircraft's altimeter to calculate its altitude above sea level. The Radiotelephony Proword associated with QNH is 'Altitude'.
 
 !!! example ATC
-	BAW134 descend **altitude** tree thousand
+	BAW134 descend **altitude** 3,000
 
 This is an instruction for BAW134 to descend to 3,000ft above sea level.
 
@@ -26,7 +26,7 @@ QNH may change depending on current [meteorological conditions](./meteorology.md
 QFE stands for Query Field Elevation, as the name may suggest, QFE refers to the **current** air pressure at airfield elevation - usually measured from the end of the active runway. This can be used by on aircraft to determine its altitude above the airfield. QFE is much less commonly used than QNH, however, knowledge of it is still useful. The Radiotelephony Proword associated with QFE is 'Height'.
 
 !!! example ATC
-	BAW134 descend **height** tree thousand
+	BAW134 descend **height** 3,000
 
 This is an instruction for BAW134 to descend to 3,000ft above the airfield, therefore, their altitude above sea level will be 3,000ft + the airfield elevation
 
@@ -37,7 +37,7 @@ QFE may change depending on current [meteorological conditions](./meteorology.md
 QNE stands for Query Nautical Equivalent, a more common name for this altimeter setting is "standard pressure" this is because it is the **average** air pressure at sea level as defined by the International Civil Aviation Organisation (ICAO) Standard Atmosphere (ICAO Doc 7488-CD). QNE is typically used at higher altitudes since that is where barometric altimeters become less accurate when compared to true altitude and, more importantly, aircraft travel long distances at higher altitudes, and QNE is independent of airfield elevation or meteorological conditions, so it is useful for all aircraft to use the same standard. The Radiotelephony Proword associated with QNE is 'Flight Level' - a Flight Level is given as three digits in hundreds of feet and often abbreviated to 'FL'.
 
 !!! example ATC
-	BAW134 climb **flight level** one one zero
+	BAW134 climb **flight level** 110
 
 This is an instruction for BAW134 to climb to 11,000ft above sea level using standard pressure.
 
