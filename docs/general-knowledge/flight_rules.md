@@ -36,7 +36,7 @@ IFR flights are generally given Pre-Departure Clearances by Air Traffic Control 
 
 !!! note Note A Pre-Departure Clearance is not typically required while flying combat missions, and instead the pilot should request taxi on initial contact.
 
-A pilot wishing to fly IFR should have an aircraf equipped with the required equipment, and access to IFR charts, which contain airways, approaches, airfield published procedures and more. The required instruments include:
+A pilot wishing to fly IFR should have an aircraft equipped with the required equipment, and access to IFR charts, which contain airways, approaches, airfield published procedures and more. The required instruments include:
 
 - Heading indicator
 - Adjustable altimeter
