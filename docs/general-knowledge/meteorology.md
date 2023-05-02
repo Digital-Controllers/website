@@ -60,7 +60,9 @@ When wind gusts differ from the average by more than 10 knots, wind is given as 
 The altitude of a cloud layer is the cloud base (i.e. the bottom of the cloud layer), the lowest BKN or OVC layer indicates the cloud ceiling - cloud layers may also be labelled as SCT (Scattered) which is 3-4 out of 8 sky coverage
 
 Other notes may be added to a METAR, most notably:
+
 - `NOSIG` which means that no significant changes are expected within the next two hours
+- `TEMPO` conditions are expected to change for half of the next two hour period
 - `CAVOK` short for Ceiling And Visibility OK and indicates that there is no cloud below 5,000ft AGL, and visibility is higher than 10km (shown in the visibility section as 9999)
 
 ## TAF
@@ -70,6 +72,7 @@ TODO: short answer: while METAR provides the current weather, TAF is a forecast
 # Further Reading & References
 
 The information used here can be found in:
+
 - [UK Met Office](https://www.metoffice.gov.uk/)
 - [Wikipedia Weather Fronts](https://en.wikipedia.org/wiki/Weather_front)
 - [Wikipedia METAR](https://en.wikipedia.org/wiki/METAR)
