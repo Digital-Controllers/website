@@ -16,9 +16,9 @@ Weather conditions can be found in METARs (See [meteorology](./meteorology.md) f
 
 If these minima are not met, then the conditions are considered Instrument Meterological Conditions (IMC), and flights are required to operate under IFR. VFR also requires the pilot to see and avoid obstacles, such as terrain or other aircraft; pilots are responsible for seperation with other aircraft. Though the pilot is responsible for separation, Air Traffic Control may require the use of a transponder to identify the aircraft and provide seperation from IFR aircraft (see below). If an aircraft is planning to arrive at an airport in IMC using VFR, this aircraft will be denied clearance, and will have to divert or declare an emergency.
 
-!!! note Note VFR flights cannot operate in 'Class A' airspace, as this requires the pilot to be flying IFR, though may be entered if an emergency is decleared, or if a pilot is avoiding severe weather formations.
+!!! note "Note" VFR flights cannot operate in 'Class A' airspace, as this requires the pilot to be flying IFR, though may be entered if an emergency is decleared, or if a pilot is avoiding severe weather formations.
 
-!!! note Note Helicopters rarely use IFR, instead opting for a version of VFR, due to the unique operating characteristics of rotary-wing aircraft.
+!!! note "Note" Helicopters rarely use IFR, instead opting for a version of VFR, due to the unique operating characteristics of rotary-wing aircraft.
 
 ## IFR
 
@@ -26,7 +26,7 @@ IFR stands for 'Instrument Flight Rules', where instruments are used rather than
 
 As IFR flights do not use Visual References, they use navigational aids, such as VORs, NDBs, and GPS/GNSS. Air Traffic Control can also provide vectors to offer shortcuts, deconflict traffic, and more.
 
-!!! example ATC BAW134 Fly heading Zero Seven Zero.
+!!! example "ATC" BAW134 Fly heading Zero Seven Zero.
 
 IFR flights are generally given Pre-Departure Clearances by Air Traffic Control before departure. This can include:
 
@@ -34,7 +34,7 @@ IFR flights are generally given Pre-Departure Clearances by Air Traffic Control 
 - Squawk code
 - Initial altitude
 
-!!! note Note A Pre-Departure Clearance is not typically required while flying combat missions, and instead the pilot should request taxi on initial contact.
+!!! note "Note" A Pre-Departure Clearance is not typically required while flying combat missions, and instead the pilot should request taxi on initial contact.
 
 A pilot wishing to fly IFR should have an aircraft equipped with the required equipment, and access to IFR charts, which contain airways, approaches, airfield published procedures and more. The required instruments include:
 
