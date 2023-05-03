@@ -1,9 +1,9 @@
-Ground control, is a branch of aerodrome control responsible for movements on the aerodrome manoeuvring area - this includes all taxiways, aprons/ramps (for the sake of standardisation, we use apron) and **INACTIVE** runways.
+Ground control is a branch of aerodrome control responsible for movements on the aerodrome manoeuvring area - this includes all taxiways, aprons/ramps (for the sake of standardisation, we use apron) and **INACTIVE** runways.
 
 ## Responsibilities of a Ground Controller
 
 - Ensuring that metal does not hit metal
-- Providing Taxi instructions to aircraft
+- Providing taxi instructions to aircraft
 - Ensure appropriate loading of taxiways and traffic
 - Providing IFR Flight clearances
 
