@@ -4,6 +4,7 @@ The general knowledge section contains the following information:
 
 - [Radiotelephony](./radiotelephony.md)
 - [Radio Theory](./radio_theory.md)
+- [Radar Theory](./radar_theory)
 - [Altimetry](./altimetry.md)
 - [Meteorology](./meteorology.md)
 - [Flight Rules](./flight_rules.md)
