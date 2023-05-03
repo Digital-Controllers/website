@@ -29,6 +29,11 @@ nav:
     - Altimetry: general-knowledge/altimetry.md
     - Meteorology: general-knowledge/meteorology.md
     - Flight Rules: general-knowledge/flight_rules.md
+  - Ground Control:
+    - ground/index.md
+    - Taxi: ground/taxi.md
+    - Flight Clearance: ground/flight_clearance.md
+    - Traffic Management: ground/traffic_management.md
 plugins:
   - social
 markdown_extensions:
