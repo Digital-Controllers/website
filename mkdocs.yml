@@ -3,6 +3,8 @@ site_description: Digital Controllers Documentation Hub - an open-source ATC doc
 site_url: https://digital-controllers.com
 theme:
   name: material
+  features:
+    - navigation.indexes
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -19,6 +21,13 @@ theme:
 nav:
   - Welcome: index.md
   - Contributing: contributing.md
+  - General Knowledge:
+    - general-knowledge/index.md
+    - Radiotelephony: general-knowledge/radiotelephony.md
+    - Radio Theory: general-knowledge/radio_theory.md
+    - Altimetry: general-knowledge/altimetry.md
+    - Meteorology: general-knowledge/meteorology.md
+    - Flight Rules: general-knowledge/flight_rules.md
 plugins:
   - social
 markdown_extensions:
