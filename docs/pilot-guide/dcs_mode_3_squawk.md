@@ -1,4 +1,4 @@
-# Transponder Operation
+# SQUAWK and Mode 3 Transponder Operation
 
 ## Transponder Codes
 

@@ -37,7 +37,7 @@ nav:
     - Traffic Management: ground/traffic_management.md
   - Pilot Guide:
     - pilot-guide/index.md
-    - DCS Mode 3 Transponders and SQUAWK: pilot-guide/dcs_mode_3_squawk.md
+    - pilot-guide/dcs_mode_3_squawk.md
 plugins:
   - social
 markdown_extensions:
