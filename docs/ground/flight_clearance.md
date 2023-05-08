@@ -9,17 +9,17 @@
 
 An ATC clearance is an authorization by ATC, for the purpose of preventing collision between known aircraft, for an aircraft to proceed under specified conditions within controlled airspace.
 
-Prior to taxi, pilots SHOULD receive a flight clearance for their intended sortie.
+Prior to taxi, pilots **SHOULD** receive a flight clearance for their intended sortie.
 This may be a simple VFR clearance, or a full IFR clearance that is issued based on a verbal request from the pilot to ATC, or based on a pre-filed flight plan.
 A clearance may be to the final destination or partial clearance.
 
-For example, a pilot MAY request a clearance via a pre-defined route to an Operating Area (AO) and then cancel IFR to fly VFR in the AO.
-Once complete and ready to return, the pilot MAY request IFR clearance back to their destination airport.
+For example, a pilot **MAY** request a clearance via a pre-defined route to an Operating Area (AO) and then cancel IFR to fly VFR in the AO.
+Once complete and ready to return, the pilot **MAY** request IFR clearance back to their destination airport.
 
 ## Flight Plans
 
-When practicable, pilots SHOULD file a flight plan with the correct controlling agency prior to departure.
-Basic information can be passed in any suitable manner, but SHALL contain the following data where available and applicable:
+When practicable, pilots **SHOULD** file a flight plan with the correct controlling agency prior to departure.
+Basic information can be passed in any suitable manner, but **SHALL** contain the following data where available and applicable:
 
 ### Flight Plan Content
 
@@ -36,7 +36,7 @@ Basic information can be passed in any suitable manner, but SHALL contain the fo
 
 !!! example "Example Flight Plan"
     1.  C/S:  TRIDENT-1
-    2.  #AC:  4
+    2.  \#AC:  4
     3.  ORD:  EACH 38X FFAR MK5, 2X MK82
     4.  DTG:  202305061900Z
     5.  DEP:  UGTB
@@ -45,3 +45,9 @@ Basic information can be passed in any suitable manner, but SHALL contain the fo
     8.  ALT:  FL220
     9.  ETE:  +01+10
     10. RMK:  DESCEND LOW-LEVEL AT KTS AFTER AAR, NAVEX SAMEGRELO MOA, RTB
+
+## Comments and Observations
+
+Where pilots are uncomfortable or unable to request, receive, and fly a cleared route, they **MAY** request, or be provided with vectors to a destination or reference point, in accordance with the level of control they have requested.
+
+For certain scenarios where radar coverage is limited or unavailable, a pilot may be given a procedural clearance for collision avoidance.
