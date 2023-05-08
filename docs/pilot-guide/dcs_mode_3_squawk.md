@@ -42,39 +42,38 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
  ![Mode 3 IFF demonstration animation](../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
 
-#### Walkthrough
+=== "Walkthrough"
 
-1. Press the `IFF` button on the **UFC**.
-2. Press the `On/Off` switch on the **UFC** if you do not see the mode options populated.
-3. Press the `3 C` option button on the **UFC**, to select the mode 3 configuration for editing.
-4. Input your designated or desired SQUAWK.
-5. Press `ENT`.
+    1. Press the `IFF` button on the **UFC**.
+    2. Press the `On/Off` switch on the **UFC** if you do not see the mode options populated.
+    3. Press the `3 C` option button on the **UFC**, to select the mode 3 configuration for editing.
+    4. Input your designated or desired SQUAWK.
+    5. Press `ENT`.
 
-#### Checklist
-
-```
-IFF ..... ON
-Mode 3C ..... ON
-Mode 3C ..... CODE
-```
+=== "Checklist"
+    ```
+    IFF ..... ON
+    Mode 3C ..... ON
+    Mode 3C ..... CODE
+    ```
 
 ### IDENT
 
  ![I/P pushbutton location](../assets/pilot-guide/transponder/fa18_ident.webp)
 
-#### Walkthrough
+=== "Walkthrough"
 
-1. Press the `I/P` pushbutton on the **UFC**.
+    1. Press the `I/P` pushbutton on the **UFC**.
 
-*You do not need to hold this down for operation.*
+    *You do not need to hold this down for operation.*
 
-#### Checklist
+=== "Checklist"
 
-```
-IFF ..... ON
-Mode 3C ..... ON
-I/P Pushbutton ..... HOLD 1 SECOND
-```
+    ```
+    IFF ..... ON
+    Mode 3C ..... ON
+    I/P Pushbutton ..... HOLD 1 SECOND
+    ```
 
 ## Mirage F1
 
@@ -82,47 +81,46 @@ I/P Pushbutton ..... HOLD 1 SECOND
 
  ![Mode 3 IFF Demonstration Animation](../assets/pilot-guide/transponder/f1_transponder_setup.webp)
 
-#### Walkthrough
+=== "Walkthrough"
 
-1. Locate the IFF control panel.
-2. Set the IFF Master knob to standby.
-3. Enter your SQUAWK into the Mode 3A section using the number rollers.
-4. Set the `Mode 1/2/3A/C` to on.
-5. Set the `Mode 4 "Password" Knob` to A or B depending on preference. Default to `A`.
-6. Set the `Mode 4 Switch` to on.
-7. Before taking off, or at ATC request, set the `IFF Master` switch to on.
+    1. Locate the IFF control panel.
+    2. Set the IFF Master knob to standby.
+    3. Enter your SQUAWK into the Mode 3A section using the number rollers.
+    4. Set the `Mode 1/2/3A/C` to on.
+    5. Set the `Mode 4 "Password" Knob` to A or B depending on preference. Default to `A`.
+    6. Set the `Mode 4 Switch` to on.
+    7. Before taking off, or at ATC request, set the `IFF Master` switch to on.
 
+=== "Checklist"
 
-#### Checklist
+    During Start:
 
-During Start:
+    ```
+    - IFF Master Knob ..... STBY
+    - Mode 1 ..... Code
+    - Mode 3 ..... Code
+    - Mode 1 / 2 / 3A / C Switch .... ON
+    - Mode 4 "Password" Knob ..... A / B
+    - Mode 4 Switch..... ON
+    ```
 
-```
-- IFF Master Knob ..... STBY
-- Mode 1 ..... Code
-- Mode 3 ..... Code
-- Mode 1 / 2 / 3A / C Switch .... ON
-- Mode 4 "Password" Knob ..... A / B
-- Mode 4 Switch..... ON
-```
+    Before Takeoff:
 
-Before Takeoff:
-
-```
-IFF Master Knob ..... N
-```
+    ```
+    IFF Master Knob ..... N
+    ```
 
 ### IDENT
 
  ![](../assets/pilot-guide/transponder/f1_ident.webp)
 
-#### Walkthrough
+=== "Walkthrough"
 
-1. Hold the Position/Identification switch in the up position to IDENT.
+    1. Hold the Position/Identification switch in the up position to IDENT.
 
-#### Checklist
+=== "Checklist"
 
-```
-Position/Identification Switch .... HOLD UP
-```
+    ```
+    Position/Identification Switch .... HOLD UP
+    ```
 

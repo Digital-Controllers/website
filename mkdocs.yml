@@ -5,6 +5,7 @@ theme:
   name: material
   features:
     - navigation.indexes
+    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -44,3 +45,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+        alternate_style: true
