@@ -19,5 +19,5 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: sudo apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
-      - run: pip install mkdocs-material pillow cairosvg
+      - run: pip install mkdocs-material==9.1.9 pillow cairosvg
       - run: mkdocs gh-deploy --force
