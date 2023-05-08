@@ -36,6 +36,16 @@ When squawking `7700` or `7600`, the relevant aircraft will be highlighted by a 
 
 Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600` is selected by the pilot.
 
+## F14 Tomcat
+
+!!! todo Todo
+	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+
+## F16 Fighting Falcon
+
+!!! todo Todo
+	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+
 ## F/A 18C Hornet
 
 ### Mode 3 Transponder
@@ -124,3 +134,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
     Position/Identification Switch .... HOLD UP
     ```
 
+## SRS Overlay
+
+!!! todo Todo
+	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
