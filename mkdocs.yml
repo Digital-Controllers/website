@@ -5,6 +5,7 @@ theme:
   name: material
   features:
     - navigation.indexes
+    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -34,6 +35,9 @@ nav:
     - Taxi: ground/taxi.md
     - Flight Clearance: ground/flight_clearance.md
     - Traffic Management: ground/traffic_management.md
+  - Pilot Guide:
+    - pilot-guide/index.md
+    - pilot-guide/dcs_mode_3_squawk.md
 plugins:
   - social
 markdown_extensions:
@@ -41,3 +45,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+        alternate_style: true

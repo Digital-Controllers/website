@@ -26,3 +26,8 @@ Ensure you have docker installed. Run the compose without detatch to get tty (te
 ```
 docker-compose up
 ```
+
+
+## Images and Video
+
+Images and video are large in older formats (`jpg/png/gif`). Payload size was raised as an issue, and it was decided that to reduce delays for FCP on older devices: All images submitted as part of PRs must be converted to `webp`. This includes still images and animated `gifs`, `apngs` etc. Video may be added as `webp` or `webm` if audio is required. `avif` was considered but was skipped due to low adoption rate.
