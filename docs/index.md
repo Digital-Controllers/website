@@ -9,6 +9,9 @@ Our community is built on open-source principles - everything we do is publicly 
 
 Interested in joining us? **Come check out our [Discord!](https://discord.gg/8qXDBVs2XU)** No matter your proficiency, you're more than welcome to join and discuss the intricacies of air traffic control.
 
+## Disclaimer
+
+All content hosted on this website is solely intended as a reference for simulated Air Traffic Control in Digital Combat Simulator and is not to be taken as real-world advice, or to be used as resources for real-world training. 
 
 ## Acknowledgements
 - [evwltrs](https://github.com/evwltrs) - setting up the static website and helping us with getting the ball rolling!
