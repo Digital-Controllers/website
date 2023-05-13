@@ -41,16 +41,45 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 !!! todo Todo
 	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
 
-## F16 Fighting Falcon
+## F16C Viper
 
-!!! todo Todo
-	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+### Mode 3 Transponder
+
+![F16 Mode 3 Setup Animation](../assets/pilot-guide/transponder/f16_iff_mode_3_setup.webp)
+
+!!! note
+	The Viper does not differentiate between mode 1 and 3 within the cockpit. You will use both the mode 1 and 3 section to input your mode 3 squawk (4 digits).
+
+=== "Walkthrough"
+
+    1. Switch the `IFF Master Knob` to **NORM**
+    2. Input your designated/desired squawk using the rollers under Mode 1 and Mode 3.
+
+=== "Checklist"
+    ```
+    IFF MASTER KNOB ..... NORM
+    IFF Mode 1/3 Selector ..... CODE
+    ```
+
+### IDENT
+
+![F16 Mode IDENT Animation](../assets/pilot-guide/transponder/f16_ident.webp)
+
+=== "Walkthrough"
+
+    1. Press the `IFF IDENT` button located on the left side dash.
+
+=== "Checklist"
+    ```
+    IFF MASTER KNOB ..... NORM
+    IFF IDENT ..... PRESS
+    ```
 
 ## F/A 18C Hornet
 
 ### Mode 3 Transponder
 
- ![Mode 3 IFF demonstration animation](../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
+![Mode 3 IFF demonstration animation](../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
 
 === "Walkthrough"
 
