@@ -10,7 +10,7 @@ Flight rules are the rules, regulations & procedures used by aircraft flying in 
 VFR stands for 'Visual Flight Rules', and as the name infers, this means flying using visual references. This can be a very simple method of navigation, though it requires Visual Meteorological Conditions (VMC). The VMC visibility and distance from cloud minima are contained in the table below (Table 3-1, [ICAO Annex 2](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiY2pqIl9T-AhXLTcAKHXhmDEAQFnoECBgQAQ&url=https%3A%2F%2Fwww.icao.int%2FMeetings%2Fanconf12%2FDocument%2520Archive%2Fan02_cons%255B1%255D.pdf&usg=AOvVaw3TZDU3bcTXjQcuw_2jfQ0y))
 
 
-![VMC Minima Chart](../assets/VMC_Minima.png)
+![VMC Minima Chart](../assets/vmc_minima.png)
 
 Weather conditions can be found in METARs (See [meteorology](./meteorology.md) for more details.)
 

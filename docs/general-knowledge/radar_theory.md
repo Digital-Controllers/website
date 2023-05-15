@@ -9,7 +9,7 @@ Radar systems can generally be split into two categories, both of which are used
 
 PSR is the traditional form of radar (usually realised as a pulse-doppler radar very similar to that found on modern fighter aircraft). This is where a pulse of radio waves are transmitted, they reflect off an object, and by recording where in the scan the pulse was transmitted, timing the pulse, and measuring the doppler shift of the returning pulse, distance, angle and radial velocity can be determined.
 
-![Pulse-Doppler Radar](../assets/Dopplerradar.gif)
+![Pulse-Doppler Radar](../assets/doppler_radar.webp)
 
 The information from a PSR is usually just displayed as a dot, however, if contact is maintained, previous locations can be used to calculate a track direction, and ground speed, this is why a contact that is turning's instantaneous track will be different from its radar track - something to keep in mind when looking at your scope. Each contact can then be classified with a callsign, 
 

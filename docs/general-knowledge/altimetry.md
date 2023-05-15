@@ -51,7 +51,7 @@ The value of QNE in the different units:
 - Inches of Mercury (inHg): 29.92 inHg
 - Millimetres of Mercury (mmHg): 730 mmHg
 
-![Altimeter settings](../assets/Altimetry.png)
+![Altimeter settings](../assets/altimetry.webp)
 
 ## Transition Altitude
 
@@ -75,7 +75,7 @@ In North America, the transition level is fixed at FL180 (the 'same' as transiti
 
 Similarly to transition altitude, across the world, transition level may change significantly, even by the hour! - however, the transition level MUST be equal or higher than transition altitude, the space in between is known as the 'transition layer' - this is important to remember as no aircraft should be maintaining an altitude within the transition layer.
 
-![Transition Layer](../assets/transition_layer.png)
+![Transition Layer](../assets/transition_layer.webp)
 
 # Further reading & References
 
