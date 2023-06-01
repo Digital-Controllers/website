@@ -38,8 +38,35 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ## F14 Tomcat
 
-!!! todo Todo
-	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+### Mode 3 Transponder
+
+![F14 Mode 3 Setup Animation](../assets/pilot-guide/transponder/f14_iff_mode_3_setup.webp)
+
+=== "Walkthrough"
+
+    1. Enter the RIO cockpit and locate the IFF control panel.
+    2. Set the `MODE 4` to on.
+    3. Input your designated/desired squawk using the rollers under `MODE 1` and `MODE 3/A`.
+
+=== "Checklist"
+    ```
+    IFF MODE 4 ..... ON
+    IFF MODE 3/A ..... CODE
+    ```
+
+### IDENT
+
+![F14 IDENT Animation](../assets/pilot-guide/transponder/f14_ident.webp)
+
+=== "Walkthrough"
+
+    1. Enter the RIO cockpint and locate the IFF control panel.
+    2. Set `IDENT` switch on with left click.
+
+=== "Checklist"
+    ```
+    IFF IDENT ..... ON
+    ```
 
 ## F16C Viper
 
