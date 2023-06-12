@@ -26,6 +26,7 @@ theme:
 nav:
   - Welcome: index.md
   - Contributing: contributing.md
+  - Publications: publications.md
   - General Knowledge:
       - general-knowledge/index.md
       - Radiotelephony: general-knowledge/radiotelephony.md
