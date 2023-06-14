@@ -30,4 +30,10 @@ docker-compose up
 
 ## Images and Video
 
-Images and video are large in older formats (`jpg/png/gif`). Payload size was raised as an issue, and it was decided that to reduce delays for FCP on older devices: All images submitted as part of PRs must be converted to `webp`. This includes still images and animated `gifs`, `apngs` etc. Video may be added as `webp` or `webm` if audio is required. `avif` was considered but was skipped due to low adoption rate.
+Images and video are large in older formats (`jpg/png/gif`). Payload size was raised as an issue, and it was decided that to reduce delays for FCP on older devices: All images submitted as part of PRs must be converted to `webp`. This includes still images and animated `gifs`, `apngs` etc. Video may be added as `webp` or `webm` if audio is required. `avif` was considered but was skipped due to low adoption rate. Leave images that grow when converted as their base type.
+
+### Media Naming Conventions
+
+- Emphasise clarity.
+- Make use of `snake_case`.
+- Group sections of similar thought into folders that match the folder structure of the page the image is used on. If used in multiple places, use own discretion, or push it up the folder hierarchy.

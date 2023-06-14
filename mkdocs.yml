@@ -9,35 +9,40 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: assets/logo.png
+  logo: assets/logo.webp
 nav:
   - Welcome: index.md
   - Contributing: contributing.md
+  - Publications: publications.md
   - General Knowledge:
-    - general-knowledge/index.md
-    - Radiotelephony: general-knowledge/radiotelephony.md
-    - Radio Theory: general-knowledge/radio_theory.md
-    - Radar Theory: general-knowledge/radar_theory.md
-    - Altimetry: general-knowledge/altimetry.md
-    - Meteorology: general-knowledge/meteorology.md
-    - Flight Rules: general-knowledge/flight_rules.md
+      - general-knowledge/index.md
+      - Radiotelephony: general-knowledge/radiotelephony.md
+      - Radio Theory: general-knowledge/radio_theory.md
+      - Radar Theory: general-knowledge/radar_theory.md
+      - Altimetry: general-knowledge/altimetry.md
+      - Meteorology: general-knowledge/meteorology.md
+      - Flight Rules: general-knowledge/flight_rules.md
   - Ground Control:
-    - ground/index.md
-    - Taxi: ground/taxi.md
-    - Flight Clearance: ground/flight_clearance.md
-    - Traffic Management: ground/traffic_management.md
+      - ground/index.md
+      - Taxi: ground/taxi.md
+      - Flight Clearance: ground/flight_clearance.md
+      - Traffic Management: ground/traffic_management.md
   - Pilot Guide:
-    - pilot-guide/index.md
-    - pilot-guide/dcs_mode_3_squawk.md
+      - pilot-guide/index.md
+      - pilot-guide/dcs_mode_3_squawk.md
 plugins:
   - social
 markdown_extensions:
@@ -46,4 +51,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
-        alternate_style: true
+      alternate_style: true
+extra_css:
+  - stylesheets/extra.css

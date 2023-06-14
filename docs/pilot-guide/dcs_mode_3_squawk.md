@@ -38,19 +38,75 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ## F14 Tomcat
 
-!!! todo Todo
-	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+### Mode 3 Transponder
 
-## F16 Fighting Falcon
+![F14 Mode 3 Setup Animation](../assets/pilot-guide/transponder/f14_iff_mode_3_setup.webp)
 
-!!! todo Todo
-	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+=== "Walkthrough"
+
+    1. Enter the RIO cockpit and locate the IFF control panel.
+    2. Set the `MODE 4` to on.
+    3. Input your designated/desired squawk using the rollers under `MODE 1` and `MODE 3/A`.
+
+=== "Checklist"
+    ```
+    IFF MODE 4 ..... ON
+    IFF MODE 3/A ..... CODE
+    ```
+
+### IDENT
+
+![F14 IDENT Animation](../assets/pilot-guide/transponder/f14_ident.webp)
+
+=== "Walkthrough"
+
+    1. Enter the RIO cockpint and locate the IFF control panel.
+    2. Set `IDENT` switch on with left click.
+
+=== "Checklist"
+    ```
+    IFF IDENT ..... ON
+    ```
+
+## F16C Viper
+
+### Mode 3 Transponder
+
+![F16 Mode 3 Setup Animation](../assets/pilot-guide/transponder/f16_iff_mode_3_setup.webp)
+
+!!! note
+	The Viper does not differentiate between mode 1 and 3 within the cockpit. You will use both the mode 1 and 3 section to input your mode 3 squawk (4 digits).
+
+=== "Walkthrough"
+
+    1. Switch the `IFF Master Knob` to **NORM**
+    2. Input your designated/desired squawk using the rollers under Mode 1 and Mode 3.
+
+=== "Checklist"
+    ```
+    IFF MASTER KNOB ..... NORM
+    IFF Mode 1/3 Selector ..... CODE
+    ```
+
+### IDENT
+
+![F16 Mode IDENT Animation](../assets/pilot-guide/transponder/f16_ident.webp)
+
+=== "Walkthrough"
+
+    1. Press the `IFF IDENT` button located on the left side dash.
+
+=== "Checklist"
+    ```
+    IFF MASTER KNOB ..... NORM
+    IFF IDENT ..... PRESS
+    ```
 
 ## F/A 18C Hornet
 
 ### Mode 3 Transponder
 
- ![Mode 3 IFF demonstration animation](../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
+![Mode 3 IFF demonstration animation](../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
 
 === "Walkthrough"
 
@@ -136,5 +192,38 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ## SRS Overlay
 
-!!! todo Todo
-	This section has not been completed yet, but you can assist by [adding to the thread on discord](https://discord.com/channels/1099799536416862330/1102555371404525640), or by submitting a pull request to update this section.
+### Mode 3 Transponder Setup
+
+![SRS Radio Overlay Toggle](../assets/pilot-guide/transponder/srs_show_radio_overlay.webp)
+
+![SRS Transponder Setup Animation](../assets/pilot-guide/transponder/srs_overlay_mode_3.webp)
+
+=== "Walkthrough"
+
+    1. Show the **SRS Radio Overlay** before connecting, or alt tab and show it from **SRS**.
+    2. Click the red dot next to transponder to switch it on. You will need to have electrical power and typically engines started to do this, but it varies per type.
+    3. Input your designated/desired squawk into the section under mode 3, and hit enter to confirm, or deselect the text input.
+
+=== "Checklist"
+    ```
+    Transponder ..... ON (GREEN CIRCLE)
+    Mode 3 ..... CODE
+    ```
+
+### IDENT
+
+ ![IDENT Button](../assets/pilot-guide/transponder/srs_overlay_ident.gif)
+
+=== "Walkthrough"
+
+    1. Press the IDENT button (while grey) to IDENT.
+    2. Wait for the controller to either find you and continue relevant procedure, or aknowledge the IDENT.
+    3. Press the IDENT button again (while it is green) to stop IDENT.
+
+=== "Checklist"
+
+    ```
+    Transponder ..... ON
+    IDENT ..... TOGGLE ON
+    IDENT ..... TOGGLE OFF
+    ```
