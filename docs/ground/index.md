@@ -24,6 +24,7 @@ Ground control is a branch of aerodrome control responsible for movements on the
 
 ## Contents
 
+- [Departure Clerance](./departure_clearance.md)
 - [Taxi](./taxi.md)
-- [Flight Clearance](./flight_clearance.md)
+- [Flight Plan](./flight_plan.md)
 - [Traffic Management](./traffic_management.md)
