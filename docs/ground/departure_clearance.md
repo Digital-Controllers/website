@@ -61,8 +61,8 @@ IFR clearances **MUST** be delivered in a standardised format. A good mnemonic f
 Pilot: "Krasnodar Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], request clearance to Sochi, IFR."
 Tower: "Fastjet 345, Krasnodar Ground, advise ready to copy IFR clearance."
 Pilot: "Ready to copy, Fastjet 345."
-Tower: "Fastjet 345, cleared to Sochi, RANIS6T departure, climb via SID, squawk 1234."
-Pilot: "Cleared to Sochi, RANIS6T departure, climb via SID, squawk 1234, Fastjet 345."
+Tower: "Fastjet 345, cleared to Sochi, RANIS6T departure, climb to flight level 170, squawk 1234."
+Pilot: "Cleared to Sochi, RANIS6T departure, climb to flight level 170, squawk 1234, Fastjet 345."
 Tower: "Fastjet 345, readback correct, report ready to taxi."
 
 A radar vector departure is as follows.  
