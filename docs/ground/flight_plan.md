@@ -1,4 +1,4 @@
-# Flight Clearance
+# Flight Plans
 
 
 !!! info "Work-in-Progress"
@@ -16,7 +16,7 @@ A clearance may be to the final destination or partial clearance.
 For example, a pilot **MAY** request a clearance via a pre-defined route to an Operating Area (AO) and then cancel IFR to fly VFR in the AO.
 Once complete and ready to return, the pilot **MAY** request IFR clearance back to their destination airport.
 
-## Flight Plans
+## Filing Flight Plans
 
 When practicable, pilots **SHOULD** file a flight plan with the correct controlling agency prior to departure.
 Basic information can be passed in any suitable manner, but **SHALL** contain the following data where available and applicable:
