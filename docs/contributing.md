@@ -18,7 +18,7 @@
 - add images and sounds unless you're confident your use falls under Fair Use or is otherwise permitted by the media's copyright license. Wikimedia is a good place to search for examples.
 
 !!! info "Copyright Complaints"
-	For concerns and inquiries, contact the project lead (Quantify) at quantifygg@gmail.com.
+	For concerns and inquiries, contact us at [hello@digital-controllers.com](mailto:hello@digital-controllers.com).
 
 ## Standards
 
