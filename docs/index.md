@@ -7,7 +7,7 @@ Digital Controllers was created to provide a welcoming and accepting learning en
 
 Our community is built on open-source principles - everything we do is publicly accessible and contributable. For more information on contributing, see [Contributing](contributing.md). 
 
-Interested in joining us? **Come check out our [Discord!](https://discord.gg/8qXDBVs2XU)** No matter your proficiency, you're more than welcome to join and discuss the intricacies of air traffic control in all its varieties.
+Interested in joining us? **Come check out our [Discord!](https://discord.gg/8qXDBVs2XU)** No matter your proficiency, you're more than welcome to join and discuss the intricacies of air traffic control in all its varieties. Pilots are also welcomed; bring your squadron along to our events!
 
 
 ## Acknowledgements
