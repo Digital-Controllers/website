@@ -37,7 +37,7 @@ nav:
       - Flight Rules: general-knowledge/flight_rules.md
   - Ground Control:
       - ground/index.md
-      - Flight Plan: flight_plan.md
+      - Flight Plan: ground/flight_plan.md
       - Departure Clearance: ground/departure_clearance.md
       - Taxi: ground/taxi.md
       - Traffic Management: ground/traffic_management.md
