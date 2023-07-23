@@ -35,6 +35,9 @@ nav:
       - Altimetry: general-knowledge/altimetry.md
       - Meteorology: general-knowledge/meteorology.md
       - Flight Rules: general-knowledge/flight_rules.md
+      - ATC Positions: general-knowledge/positions.md
+      - Airspace: general-knowledge/airspace.md
+      - Flight Information Services: general-knowledge/fis.md
   - Ground Control:
       - ground/index.md
       - Flight Plan: ground/flight_plan.md
