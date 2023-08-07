@@ -15,37 +15,51 @@ The information from a PSR is usually just displayed as a dot, however, if conta
 
 ## Secondary Surveillance Radar
 
-The other category of radar is SSR, instead of transmitting a pulse and awaiting its return, SSR is powered by equipment within aircraft, this is known as an aircraft's transponder. A transponder will transmit certain information about the aircraft (this will vary depending on the type of transponder fitted to the aircraft). This information can then also be used to display aircraft location to a controller. For an aircraft to be classified, it is given a 4-digit octal number (i.e. digits go from 0-7) with which that contact may be classified. For this reason, if an aircraft needs to be individually identified, it should have a unique SSR code (known as a squawk code).
+The other category of radar is SSR, instead of transmitting a pulse and awaiting its return, SSR transmitts a weak interrogation signal that is detected by a piece of equipment onboard the aircraft known as the aircraft's transponder. When interogatted by an SSR a transponder will transmit certain information about the aircraft (this will vary depending on the type of transponder fitted to the aircraft). This information can then also be used to display aircraft location to a controller. Transponders can contain codes that are transmitted in addition to position informationa and can be used for classification. Transponder codes are usually octal numbers (i.e. digits go from 0-7) and most commonly 4 digits. If an aircraft needs to be individually identified, it should have a unique SSR code (known as a squawk code).
 
 ### (Civilian) Types of Transponder
 
-**Mode A**
+There are three types of civilian transponder, Modes A,C, and S. 
 
-Transmits the identifying code only.
-
-**Mode C**
-
-Transmits identifying code, and pressure altitude.
-
-**Mode S**
-
-Transmits a unique 24-bit address assigned to each aircraft and all Mode C information. Also can be used for data exchange.
+The brevity for transponder operation is "Squawk", followed by the code or mode to be set. If a mode is not specified, mode 3/A is assummed. 
 
 Aircraft flying in higher traffic areas generally require at least a Mode C transponder and are required to "squawk mode C" on takeoff.
 
 Each transponder also has IDENT functionality, this will 'light-up' an aircraft on a controller's screen for easier identification.
 
+**Mode A**
+
+Transmits position information and an identifying code.
+
+Mode A codes are 4 digit octal codes. Mode A is identical to military mode 3A.
+
+Mode A is usually combined with Mode C to provide postion, code and alitutde information.
+
+**Mode C**
+
+Transmits pressure altitude. Usually combined with Mode A to provide postion, code and altitude information
+
+**Mode S**
+
+Transmits a unique 24-bit address assigned to each aircraft and all Mode A/C information. Also can be used for data exchange.
+
 ### (Military) Types of Transponder
 
 Military transponders have additional information over civillian transponders that aids them in performing military tasks, these transponders form part of the Identify Friend or Foe (IFF) system.
 
+There are several brevity word used when operating military transponders. "Parrot" is the combined word for modes 1, 2, 3/A and 3/C, "India" is the word for mode 4. 
+
+Modes 1-3 are unencrypted, meaning that they can be interrogated by any properly configred SSR, mode 4 will only reply to a properly encrypted interrogation pulse, meaning it can be used to identify friendlies and cannot be used by enemies to gain position information. 
+
 **Mode 1** (Military only)
 
-Provides only a 2-digit octal "mission code" which is used to identify the aircraft type or mission.
+Provides only a 2-digit octal code, the first digit can be 0-7, however the second digit can only be 0-3.
+
+Mode 2 is commonly used as a "mission code" which is used to identify the aircraft type or mission.
 
 **Mode 2** (Military only)
 
-Provides only a 4-digit octal unit code or tail number.
+Provides only a 4-digit octal code, usually used for unit code or tail number.
 
 **Mode 3/A**
 
@@ -57,7 +71,7 @@ Same as civilian Mode C.
 
 **Mode 4** (Military only)
 
-Provides a 3-pulse reply, the delay is based on the encrypted challenge, may be used to identify the coalition of an aircraft.
+Provides a 3-pulse reply, the delay is based on the encrypted challenge, will only reply to aircraft of the same coalition. 
 
 **Mode S**
 
