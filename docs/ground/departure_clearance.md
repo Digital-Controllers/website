@@ -4,11 +4,11 @@ A departure clearance is a set of instructions given by air traffic control to a
 
 There may be occasions in which a simple departure clearance, often just a departure heading and altitude level, will be assigned to pilots. 
 
-!!! example Simplified Example
-Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], ready to taxi."
-Tower: "Fastjet 345, Anapa Ground, after departure fly runway heading, climb to 3000 feet, [QNH1013 HPa/Altimeter 29.92]."
-Pilot: "After departure fly runway heading, climb to 3000 feet [QNH1013 HPa/Altimeter 29.92], Fastjet 345."
-Tower: "Fastjet 345, readback correct, taxi to [...]."
+!!! example "Simplified Clearance"
+  Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], ready to taxi."
+  Tower: "Fastjet 345, Anapa Ground, after departure fly runway heading, climb to 3000 feet, [QNH1013 HPa/Altimeter 29.92]."
+  Pilot: "After departure fly runway heading, climb to 3000 feet [QNH1013 HPa/Altimeter 29.92], Fastjet 345."
+  Tower: "Fastjet 345, readback correct, taxi to [...]."
 
 If ATIS is available, the pilot **SHALL** include the information designator in his initial communication to the ground controller.
 
@@ -19,11 +19,11 @@ Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/r
 
 Visual Flight Rules clearances **MUST** only be issued during daytime and within Visual Meteorological (VMC) conditions. Clearances **SHOULD** include instructions of exiting the airfield control zone. This may consist of a departure heading or a Visual Reference Point, if a VFR chart is available for that airfield. 
 
-!!!example VFR Example with VRP
-Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], VFR flight to Krymsk, ready to taxi."
-Tower: "Fastjet 345, Anapa Ground, after departure cleared to leave control zone via Entry/Exit East, not above 2500 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234."
-Pilot: After departure cleared to leave control zone via Entry/Exit East, not above 2500 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234, Fastjet 345."
-Tower: "Fastjet 345, readback correct, taxi to [...]."
+!!!example "VFR Example with VRP"
+  Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], VFR flight to Krymsk, ready to taxi."
+  Tower: "Fastjet 345, Anapa Ground, after departure cleared to leave control zone via Entry/Exit East, not above 2500 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234."
+  Pilot: After departure cleared to leave control zone via Entry/Exit East, not above 2500 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234, Fastjet 345."
+  Tower: "Fastjet 345, readback correct, taxi to [...]."
 
 If charts are not available, a heading may be used.
 
@@ -34,16 +34,16 @@ Tower: "Fastjet 345, Anapa Ground, after departure cleared to leave control zone
 
 For VFR (and simplified) clearances, the Ground controller **MAY** opt to give departure clearance at the holding point, right before takeoff.
 
-!!!example Clearance at holding point
-Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], VFR flight to Krymsk, ready to taxi."
-Tower: "Fastjet 345, Anapa Ground, taxi to [...], expect clearance at holding point."
-Pilot: "Taxi to [...], expect clearance at holding point, Fastjet 345."
-At holding point: 
-Pilot: "Anapa Ground, Fastjet 345, holding at/short of [location]."
-Tower: "Fastjet 345, advise ready to copy clearance."
-Pilot: "Ready to copy, Fastjet 345."
-Tower: "Fastjet 345, Anapa Ground, after departure [...]"
-Pilot: "After departure [...], Fastjet 345."
+!!!example "Clearance at holding point"
+  Pilot: "Anapa Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], VFR flight to Krymsk, ready to taxi."
+  Tower: "Fastjet 345, Anapa Ground, taxi to [...], expect clearance at holding point."
+  Pilot: "Taxi to [...], expect clearance at holding point, Fastjet 345."
+  At holding point: 
+  Pilot: "Anapa Ground, Fastjet 345, holding at/short of [location]."
+  Tower: "Fastjet 345, advise ready to copy clearance."
+  Pilot: "Ready to copy, Fastjet 345."
+  Tower: "Fastjet 345, Anapa Ground, after departure [...]"
+  Pilot: "After departure [...], Fastjet 345."
 
 ##IFR Clearance
 
@@ -57,18 +57,18 @@ IFR clearances **MUST** be delivered in a standardised format. A good mnemonic f
 - **F**requency: Frequency the aircraft must switch to when requested by the tower controller. Under ICAO procedures this is often omitted.
 - **T**ransponder: Mode 3 squawk code that the aircraft should set into its transponder.
 
-!!!example IFR Clearance example
-Pilot: "Krasnodar Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], request clearance to Sochi, IFR."
-Tower: "Fastjet 345, Krasnodar Ground, advise ready to copy IFR clearance."
-Pilot: "Ready to copy, Fastjet 345."
-Tower: "Fastjet 345, cleared to Sochi, RANIS6T departure, climb to flight level 170, squawk 1234."
-Pilot: "Cleared to Sochi, RANIS6T departure, climb to flight level 170, squawk 1234, Fastjet 345."
-Tower: "Fastjet 345, readback correct, report ready to taxi."
+!!!example "IFR Clearance example"
+  Pilot: "Krasnodar Ground, Fastjet 345, [single/_number_] [aircraft type] at [apron/ramp name], request clearance to Sochi, IFR."
+  Tower: "Fastjet 345, Krasnodar Ground, advise ready to copy IFR clearance."
+  Pilot: "Ready to copy, Fastjet 345."
+  Tower: "Fastjet 345, cleared to Sochi, RANIS6T departure, climb to flight level 170, squawk 1234."
+  Pilot: "Cleared to Sochi, RANIS6T departure, climb to flight level 170, squawk 1234, Fastjet 345."
+  Tower: "Fastjet 345, readback correct, report ready to taxi."
 
 A radar vector departure is as follows.  
 
-!!!example Departure via vectors
+!!!example "Departure via vectors"
 [...]
-Tower: "Fastjet 345, cleared to Sochi, departure via radar vectors, climb to 5000 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234."
-Pilot: "cleared to Sochi, departure via radar vectors, climb to 5000 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234, Fastjet 345."
-Tower: "Fastjet 345, readback correct, report ready to taxi."
+  Tower: "Fastjet 345, cleared to Sochi, departure via radar vectors, climb to 5000 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234."
+  Pilot: "cleared to Sochi, departure via radar vectors, climb to 5000 feet, [QNH1013 HPa/Altimeter 29.92], squawk 1234, Fastjet 345."
+  Tower: "Fastjet 345, readback correct, report ready to taxi."
