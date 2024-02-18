@@ -18,7 +18,7 @@ A weather system can also contain 'weather fronts' - a weather front is the boun
 
 There are other weather fronts, however, these are the most common and simplest to understand.
 
-![Synoptic Chart Example](../assets/synoptic_chart.webp)
+![Synoptic Chart Example](../../assets/synoptic_chart.webp)
 
 In the above synoptic chart, blue fronts are cold fronts, red fronts are warm fronts, and pink fronts are occluded fronts, the centre of a pressure system is marked with an 'x' and the pressure at that point is labelled with L or H depending on whether its low or high pressure, and the pressure in Hectopascals (hPa), isobars are in black.
 

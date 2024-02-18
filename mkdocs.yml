@@ -1,10 +1,13 @@
 site_name: Digital Controllers
 site_description: Digital Controllers Documentation Hub - an open-source ATC/C2 documentation project by DCS controllers, for DCS controllers.
 site_url: https://digital-controllers.com
+
 theme:
   name: material
   features:
     - navigation.indexes
+    - navigation.tabs
+    - navigation.path
     - content.tabs.link
   palette:
     # Palette toggle for light mode
@@ -23,32 +26,53 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/logo.webp
+
 nav:
-  - Welcome: index.md
-  - Contributing: contributing.md
-  - Publications: publications.md
-  - General Knowledge:
-      - general-knowledge/index.md
-      - Radiotelephony: general-knowledge/radiotelephony.md
-      - Radio Theory: general-knowledge/radio_theory.md
-      - Radar Theory: general-knowledge/radar_theory.md
-      - Altimetry: general-knowledge/altimetry.md
-      - Meteorology: general-knowledge/meteorology.md
-      - Flight Rules: general-knowledge/flight_rules.md
-      - ATC Positions: general-knowledge/positions.md
-      - Airspace: general-knowledge/airspace.md
-      - Flight Information Services: general-knowledge/fis.md
-  - Ground Control:
-      - ground/index.md
-      - Flight Plan: ground/flight_plan.md
-      - Departure Clearance: ground/departure_clearance.md
-      - Taxi: ground/taxi.md
-      - Traffic Management: ground/traffic_management.md
+  - Home: index.md
+  - About:
+      - Contributing: about/contributing.md
+      - Publications: about/publications.md
+  - ATC Guide:
+      - atc-guide/index.md
+      - General Knowledge:
+          - atc-guide/general-knowledge/index.md
+          - Radiotelephony: atc-guide/general-knowledge/radiotelephony.md
+          - Radio Theory: atc-guide/general-knowledge/radio_theory.md
+          - Radar Theory: atc-guide/general-knowledge/radar_theory.md
+          - Altimetry: atc-guide/general-knowledge/altimetry.md
+          - Meteorology: atc-guide/general-knowledge/meteorology.md
+          - Flight Rules: atc-guide/general-knowledge/flight_rules.md
+          - ATC Positions: atc-guide/general-knowledge/positions.md
+          - Airspace: atc-guide/general-knowledge/airspace.md
+          - Flight Information Services: atc-guide/general-knowledge/fis.md
+      - Ground Control:
+          - atc-guide/ground/index.md
+          - Flight Plan: atc-guide/ground/flight_plan.md
+          - Departure Clearance: atc-guide/ground/departure_clearance.md
+          - Taxi: atc-guide/ground/taxi.md
+          - Traffic Management: atc-guide/ground/traffic_management.md
+      - Tower Control:
+          - atc-guide/tower/index.md
+      - Approach Control:
+          - atc-guide/approach/index.md
+      - Enroute Control:
+          - atc-guide/enroute/index.md
+  - TAC C2 Guide:
+      - tac-c2-guide/index.md
+      - General Knowledge:
+          - tac-c2-guide/general-knowledge/index.md
+      - Identification Control:
+          - tac-c2-guide/identification/index.md
+      - Weapons Control:
+          - tac-c2-guide/weapons/index.md
   - Pilot Guide:
       - pilot-guide/index.md
-      - pilot-guide/dcs_mode_3_squawk.md
+      - General Knowledge:
+          - Squawk Codes: pilot-guide/general-knowledge/squawks.md
+
 plugins:
-  - social
+  - search
+
 markdown_extensions:
   - attr_list
   - admonition
@@ -56,5 +80,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+
 extra_css:
   - stylesheets/extra.css

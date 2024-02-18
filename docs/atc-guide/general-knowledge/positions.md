@@ -10,16 +10,16 @@ The different ATC positions can be split into three broad categories:
 
 Generally, the type of service provided can be found from the latter half of the controller's callsign:
 
-| Service                  | Suffix                                             |
-|--------------------------|----------------------------------------------------|
-| En-Route Control         | Control                                            |
-| Radar (in general)       | Radar                                              |
-| Approach Control Radar   | Radar/Director or Departure/Approach (less common) |
-| Air Control              | Tower                                              |
-| Ground Movement Control  | Ground                                             |
-| Ground Movement Planner  | Delivery                                           |
-| Precision Approach Radar | Talkdown                                           |
-| Flight Information       | Information                                        |
+| Service                  | Suffix                                             | Coordination Callsigns |
+|--------------------------|----------------------------------------------------|------------------------|
+| En-Route Control         | Control                                            | AC, TC                 |
+| Radar (in general)       | Radar                                              | variable               |
+| Approach Control Radar   | Radar/Director or Departure/Approach (less common) | INT, FIN               |
+| Air Control              | Tower                                              | AIR                    |
+| Ground Movement Control  | Ground                                             | GMC                    |
+| Ground Movement Planner  | Delivery                                           | GMP                    |
+| Precision Approach Radar | Talkdown                                           | PAR                    |
+| Flight Information       | Information                                        | INFO                   |
 
 ## Aerodrome Control
 
@@ -59,7 +59,7 @@ The GMC uses the coordination callsign "[Aerodrome] GMC".
 
 ### Air Controller
 
-The Air Controller controls all aircraft movements to do with an active runway and all aircraft in the vicinity of the aerodrome. For military aerodromes this usually means the Military Aerodrome Traffic Zone (MATZ) as described in Airspace.
+The Air Controller controls all aircraft movements to do with an active runway and all aircraft in the vicinity of the aerodrome. For military aerodromes this usually means the Military Aerodrome Traffic Zone (MATZ) as described in (Airspace)[./airspace.md].
 
 The Air Controller may provide:
 
@@ -115,7 +115,7 @@ An intermediate approach controller may use one of many different RTF callsigns:
 
 - "[Aerodrome] Radar"
 - "[Aerodrome] Director"
-- "[Aerodrome] Approach" (this one's rare outside the US though)
+- "[Aerodrome] Approach" (not typically used in DC)
 
 The coordination callsign used will always be: "[Aerodrome] INT" e.g. "Anapa INT" (Anapa INT uses the RTF callsign "Anapa Radar").
 
@@ -137,7 +137,7 @@ A PAR controller uses the coordination callsign "[Aerodrome] PAR", e.g. "Anapa P
 
 ## Flight Information
 
-Flight Information controllers provide one of two flight information services (FISs) to aircraft outside controlled airspace.
+Flight Information controllers provide one of two [flight information services](./fis.md) (FISs) to aircraft outside controlled airspace.
 
 Flight Information controllers may be split into two categories:
 

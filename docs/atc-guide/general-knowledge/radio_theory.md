@@ -11,7 +11,7 @@ A radio wave can be defined using two properties - **frequency** and **amplitude
 - Provides a less noisy signal
 - More impacted by physical barriers
 
-![AM vs. FM](../assets/am_fm.webp)
+![AM vs. FM](../../assets/am_fm.webp)
 
 ## (Military Aviation) Radio Bands
 

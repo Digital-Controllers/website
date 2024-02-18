@@ -8,8 +8,8 @@
 - write in British English, for the sake of standardisation.
 - write in a concise and simple manner, limiting the number of separate pages necessary.
 - ask for advice in the [Discord](https://discord.gg/8qXDBVs2XU) if you're unsure - we're all in this together!
-- [include Oxford-style citations as footnotes](https://squidfunk.github.io/mkdocs-material/reference/footnotes/), if you're referencing advanced concepts or dealing with a contentious topic. Too many citations isn't a bad thing - too little is.
-- use well-structured markdown, using headers correctly. 
+- [include footnotes where appropriate](https://squidfunk.github.io/mkdocs-material/reference/footnotes/), if you're referencing advanced concepts or dealing with a contentious topic. Too many citations isn't a bad thing - too little is.
+- use well-structured markdown, e.g. using headers correctly etc. 
 
 **Don't:**
 
@@ -18,6 +18,7 @@
 - add images and sounds unless you're confident your use falls under Fair Use or is otherwise permitted by the media's copyright license. Wikimedia is a good place to search for examples.
 
 !!! info "Copyright Complaints"
+
 	For concerns and inquiries, contact us at [hello@digital-controllers.com](mailto:hello@digital-controllers.com).
 
 ## Standards
@@ -30,12 +31,20 @@ Due to the flexibility of our documentation sources, please ensure you cite appr
 
 ## Formatting Guide
 
-Information should be split into 4 different categories:
+The DC Wiki will be split into the following sections:
+
+1. ATC Guide
+2. TAC C2 Guide
+3. Pilot Guide
+
+### ATC Guide
+
+Information should be split into the following categories:
 
  1. General Knowledge 
- 2. Ground
- 3. Tower
- 4. Approach/Departure
+ 2. Ground Control
+ 3. Tower Control
+ 4. Radar Control
 
 **Specific topics should then be nested inside these categories.** For instance, the Ground category could contain "VFR and IFR Clearances" as an individual page.
 
@@ -44,6 +53,7 @@ Here's a brief summary of each category's intended purpose and outcome for the r
 **General Knowledge**
 
 Anything under this section should be considered a fundemental element of air traffic control. The reader should be able to get a basic grasp on the concept of vectors, clearances and their limits, VFR/IFR, meteorology, radiotelephony standards, etc.
+
 If something feels like it fits better in a specialised category, place it there instead. For instance, a guide on structuring IFR clearances should be placed in *Ground*, whereas an explanation of what IFR is should be placed in *General Knowledge*.
 
 In brief, use this section to teach a controller everything they need to know before learning about a specific position. 
@@ -56,10 +66,30 @@ This category encompasses VFR/IFR clearances and taxi clearances. Controllers sh
 
 This category encompasses radar separation, basic IFR approaches, standard departures, runway crossings, visual circuits and missed approach procedures. The reader should understand how to manage traffic safely and efficiently, the caveats associated with a non-precision approach, minima and how to manage their workload safely.
 
-**Approach/Departure**
+**Radar**
 
-Advanced topics can be explored in this category. The reader is assumed to have a good general knowledge of ATC procedures by now, so expanding on the various approach types available to a pilot is a good idea. The Approach controller should have a good understanding of PAR/APV approaches.
-The reader should understand how to issue radar vectors effectively, taking into account winds and pilot reaction times. The reader should be able to communicate rapidly with Tower, and to manage emergencies. It is likely that the workload for an Approach controller is far higher than a Tower controller, particularly if a Tower controller isn't available to alleviate any pressure, so brevity should be consistent and refined as set out by ICAO. The reader should also understand how VFR traffic act in an aerodrome's FRZ, understand different types of airspace and monitor for potential conflicts.
+Advanced topics can be explored in this category. The reader is assumed to have a good general knowledge of ATC procedures by now, so expanding on the various approach types available to a pilot is a good idea. The Approach controller should have a good understanding of PAR/SRA approaches.
+
+The reader should understand how to issue radar vectors effectively, taking into account winds and pilot reaction times. The reader should be able to communicate rapidly with Tower, and to manage emergencies. It is likely that the workload for a radar controller is far higher than a Tower controller, particularly if a Tower controller isn't available to alleviate any pressure, so phraseology should be consistent and refined as set out by ICAO. The reader should also understand how VFR traffic act in an aerodrome's CTR, understand different types of airspace and monitor for potential conflicts.
+
 As the final station before a handoff to a TAC C2 agency, the reader should be familiarised with the basic roles of a GCI. They should understand how to communicate handoffs effectively and alleviate a GCI's workload by managing emergency traffic.
 
-*This Formatting Guide is not final, and is subject to change. Feel free to make your own amendments, but please contact Quantify#8384 on Discord beforehand.*
+### TAC C2 Guide
+
+Information shall be split into the following categories:
+
+1. General Knowledge
+2. Identification Control
+3. Weapons Control
+
+Each section shall have their definitions as stated in DCP301: Tactical Command and Control Services
+
+### Pilot Guide
+
+The pilot guide shall be split into the following sections:
+
+1. General Knowledge
+2. ATC Communications
+3. Tactical Communications
+
+*This Formatting Guide is not final, and is subject to change. Feel free to make your own amendments, but please contact any of the DC Administrators on Discord beforehand.*
