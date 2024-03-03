@@ -5,9 +5,9 @@ Welcome to the Documentation Hub! We're a group of ATC and TAC C2 enthusiasts pa
 
 Digital Controllers was created to provide a welcoming and accepting learning environment for those unfamiliar with the basics of ATC and TAC C2, and to create uniform standards for members, allowing them to fluidly work together and control pilots of varying skill levels in a sensible and reasonable way.
 
-Our community is built on open-source principles - everything we do is publicly accessible and contributable. For more information on contributing, see [Contributing](contributing.md). 
+Our community is built on open-source principles - everything we do is publicly accessible and contributable. For more information on contributing, see [Contributing](about/contributing.md). 
 
-Interested in joining us? **Come check out our [Discord!](https://discord.gg/8qXDBVs2XU)** No matter your proficiency, you're more than welcome to join and discuss the intricacies of air traffic control in all its varieties. Pilots are also welcomed; bring your squadron along to our events!
+Interested in joining us? **Come check out our [Discord](https://discord.gg/8qXDBVs2XU)!** No matter your proficiency, you're more than welcome to join and discuss the intricacies of air traffic control in all its varieties. Pilots are also welcomed; bring your squadron along to our events!
 
 
 ## Acknowledgements

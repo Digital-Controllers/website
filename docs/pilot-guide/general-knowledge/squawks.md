@@ -8,7 +8,7 @@ Transponder codes are encoded in [octal (base 8)](https://en.wikipedia.org/wiki/
 
 ### Labels
 
- ![Mode 3 filtered transponder label](../assets/pilot-guide/transponder/lotatc_label_mode3.webp)
+ ![Mode 3 filtered transponder label](../../assets/pilot-guide/transponder/lotatc_label_mode3.webp)
 
 `%(transponder)` can be added to label html to display the current transponder. You can select only the mode 3 portion of the transponder code by using `%(transponder|mode3)`.
 
@@ -22,17 +22,17 @@ Example HTML with Transponder Mode 3:
 
 ### IDENT
 
- ![IDENT Lotatc demonstration animation](../assets/pilot-guide/transponder/lotatc_ident.webp)
+ ![IDENT Lotatc demonstration animation](../../assets/pilot-guide/transponder/lotatc_ident.webp)
 
  A controller or C2 may elect to ask for a pilot to IDENT, which will highlight them with a flashing red border in LotAtc. This can be useful for doing checkins/alpha checks, as it highlights the aircraft's position without having to find them in the object menu, or look for their alpha check manually.
 
 ### Emergency Codes
 
- ![Emergency squawk LotAtc demonstration animation](../assets/pilot-guide/transponder/lotatc_7700.webp)
+ ![Emergency squawk LotAtc demonstration animation](../../assets/pilot-guide/transponder/lotatc_7700.webp)
 
 When squawking `7700` or `7600`, the relevant aircraft will be highlighted by a red block which flashes periodically. 
 
-![Emergency squawk LotAtc label](../assets/pilot-guide/transponder/lotatc_label_emer.webp)
+![Emergency squawk LotAtc label](../../assets/pilot-guide/transponder/lotatc_label_emer.webp)
 
 Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600` is selected by the pilot.
 
@@ -40,7 +40,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### Mode 3 Transponder
 
-![F14 Mode 3 Setup Animation](../assets/pilot-guide/transponder/f14_iff_mode_3_setup.webp)
+![F14 Mode 3 Setup Animation](../../assets/pilot-guide/transponder/f14_iff_mode_3_setup.webp)
 
 === "Walkthrough"
 
@@ -56,7 +56,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### IDENT
 
-![F14 IDENT Animation](../assets/pilot-guide/transponder/f14_ident.webp)
+![F14 IDENT Animation](../../assets/pilot-guide/transponder/f14_ident.webp)
 
 === "Walkthrough"
 
@@ -72,7 +72,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### Mode 3 Transponder
 
-![F16 Mode 3 Setup Animation](../assets/pilot-guide/transponder/f16_iff_mode_3_setup.webp)
+![F16 Mode 3 Setup Animation](../../assets/pilot-guide/transponder/f16_iff_mode_3_setup.webp)
 
 !!! note
 	The Viper does not differentiate between mode 1 and 3 within the cockpit. You will use both the mode 1 and 3 section to input your mode 3 squawk (4 digits).
@@ -90,7 +90,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### IDENT
 
-![F16 Mode IDENT Animation](../assets/pilot-guide/transponder/f16_ident.webp)
+![F16 Mode IDENT Animation](../../assets/pilot-guide/transponder/f16_ident.webp)
 
 === "Walkthrough"
 
@@ -106,7 +106,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### Mode 3 Transponder
 
-![Mode 3 IFF demonstration animation](../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
+![Mode 3 IFF demonstration animation](../../assets/pilot-guide/transponder/fa18_iff_mode_3.webp)
 
 === "Walkthrough"
 
@@ -125,7 +125,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### IDENT
 
- ![I/P pushbutton location](../assets/pilot-guide/transponder/fa18_ident.webp)
+ ![I/P pushbutton location](../../assets/pilot-guide/transponder/fa18_ident.webp)
 
 === "Walkthrough"
 
@@ -145,7 +145,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### Mode 3 Transponder
 
- ![Mode 3 IFF Demonstration Animation](../assets/pilot-guide/transponder/f1_transponder_setup.webp)
+ ![Mode 3 IFF Demonstration Animation](../../assets/pilot-guide/transponder/f1_transponder_setup.webp)
 
 === "Walkthrough"
 
@@ -178,7 +178,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### IDENT
 
- ![](../assets/pilot-guide/transponder/f1_ident.webp)
+ ![](../../assets/pilot-guide/transponder/f1_ident.webp)
 
 === "Walkthrough"
 
@@ -194,9 +194,9 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### Mode 3 Transponder Setup
 
-![SRS Radio Overlay Toggle](../assets/pilot-guide/transponder/srs_show_radio_overlay.webp)
+![SRS Radio Overlay Toggle](../../assets/pilot-guide/transponder/srs_show_radio_overlay.webp)
 
-![SRS Transponder Setup Animation](../assets/pilot-guide/transponder/srs_overlay_mode_3.webp)
+![SRS Transponder Setup Animation](../../assets/pilot-guide/transponder/srs_overlay_mode_3.webp)
 
 === "Walkthrough"
 
@@ -212,7 +212,7 @@ Their mode 3 transponder label will also read `EMER` if `7700` or `RDO` if `7600
 
 ### IDENT
 
- ![IDENT Button](../assets/pilot-guide/transponder/srs_overlay_ident.gif)
+ ![IDENT Button](../../assets/pilot-guide/transponder/srs_overlay_ident.gif)
 
 === "Walkthrough"
 
