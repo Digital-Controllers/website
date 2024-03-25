@@ -69,7 +69,11 @@ nav:
       - pilot-guide/index.md
       - General Knowledge:
           - Squawk Codes: pilot-guide/general-knowledge/squawks.md
-
+  - Bullseye Trainer:
+      - bullseye-trainer/index.md
+      - Guide: bullseye-trainer/guide.md
+      - Trainer: bullseye-trainer/trainer.md
+      - Calculator: bullseye-trainer/calculator.md
 plugins:
   - search
 
