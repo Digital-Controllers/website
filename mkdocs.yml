@@ -32,6 +32,7 @@ nav:
   - About:
       - Contributing: about/contributing.md
       - Publications: about/publications.md
+  - Publications: about/publications.md
   - ATC Guide:
       - atc-guide/index.md
       - General Knowledge:
